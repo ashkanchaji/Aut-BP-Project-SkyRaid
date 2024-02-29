@@ -1,0 +1,6 @@
+# ninja log v5
+2	922	7281617123338285	CMakeFiles/projectFile.dir/main.c.obj	96b073adf68c3881
+959	1156	7281617125633254	projectFile.exe	b11b61be1c298ba4
+17	928	7281617123398288	CMakeFiles/projectFile.dir/game.c.obj	356275e0b2b0a7d1
+7	126	7281617115377344	CMakeFiles/projectFile.dir/menu.c.obj	6c0f48dacaa6e804
+13	959	7281617123715232	CMakeFiles/projectFile.dir/board.c.obj	18a1c66e5ffe92a2

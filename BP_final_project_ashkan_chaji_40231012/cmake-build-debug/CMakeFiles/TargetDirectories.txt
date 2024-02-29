@@ -1,0 +1,3 @@
+G:/Learning/C Projects/BP Projects/BPFinalProject402/BP_final_project_ashkan_chaji_40231012/cmake-build-debug/CMakeFiles/projectFile.dir
+G:/Learning/C Projects/BP Projects/BPFinalProject402/BP_final_project_ashkan_chaji_40231012/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Learning/C Projects/BP Projects/BPFinalProject402/BP_final_project_ashkan_chaji_40231012/cmake-build-debug/CMakeFiles/rebuild_cache.dir
